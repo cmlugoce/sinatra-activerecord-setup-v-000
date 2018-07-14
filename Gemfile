@@ -1,5 +1,8 @@
 # A sample Gemfile
 source "https://rubygems.org"
+gem 'sinatra'
+gem 'activerecord', '4.2.5'
+gem 'sinatra-activerecord'
 
 gem 'sinatra'
 gem 'thin'
